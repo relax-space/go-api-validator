@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "8a5DHb0FYz+huzSVE8nRXV2j2dg=",
+			"path": "nomni/utils/api",
+			"revision": "26e7baf44778dd9737154650bd97d1067c818f09",
+			"revisionTime": "2019-07-29T22:31:57Z"
+		},
+		{
+			"checksumSHA1": "lEgwDF6POwRqN6RNJXY6uBjNKPw=",
+			"path": "nomni/utils/validator",
+			"revision": "26e7baf44778dd9737154650bd97d1067c818f09",
+			"revisionTime": "2019-07-29T22:31:57Z"
+		}
+	],
+	"rootPath": "go-api-validator"
+}

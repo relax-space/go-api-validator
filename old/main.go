@@ -5,8 +5,6 @@ import (
 	"net/http"
 
 	"github.com/asaskevich/govalidator"
-	_ "github.com/denisenkom/go-mssqldb"
-	_ "github.com/go-sql-driver/mysql"
 	"github.com/labstack/echo"
 	"github.com/pangpanglabs/echoswagger"
 )
